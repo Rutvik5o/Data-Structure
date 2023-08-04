@@ -43,6 +43,7 @@ int main()
             break;
         case 5:
             printf("Exiting...\n");
+            exit(0);
             break;
         default:
             printf("Invalid choice! Please try again.\n");
