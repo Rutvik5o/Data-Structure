@@ -1,3 +1,4 @@
+// Stack-> LinkList-> C
 #include <stdio.h>
 #include <stdlib.h>
 
