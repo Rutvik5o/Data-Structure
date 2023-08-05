@@ -1,3 +1,4 @@
+// Simple Queue -> Simply LinkList
 #include <stdio.h>
 #include <stdlib.h>
 
